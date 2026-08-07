@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Taha%20Mahmoudi&fontAlignY=100&textBg=false&fontColor=000
+
 <h1 align="center">Hi 👋, I'm Taha Mahmoudi</h1>
 <h3 align="center">Front-End Developer | React • Next.js • TypeScript | Learning Node.js</h3>
 
