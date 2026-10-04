@@ -1,169 +1,345 @@
-<!-- =========================================================
-     TAHA MAHMOUDI — GitHub Profile README
-     ========================================================= -->
+<div dir="rtl">
 
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:a855f7&height=220&section=header&text=Taha%20Mahmoudi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18"
-    alt="Taha Mahmoudi"
-    width="100%"
-  />
-  <h1>Hi, I'm Taha 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:6d28d9,100:a855f7&height=230&section=header&text=محمد%20طاها%20محمودی&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=توسعه‌دهنده%20فرانت‌اند%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=17" width="100%" />
 
-  <p>
-    <b>Frontend Developer</b> focused on building modern, responsive and maintainable web applications.
-  </p>
+👋 سلام، من طاها محمودی هستم
+💻 توسعه‌دهنده Frontend
+<p>
+علاقه‌مند به ساخت رابط‌های کاربری مدرن، سریع، واکنش‌گرا و تجربه‌های وب تعاملی.
+</p>
 
-  <p>
-    <a href="YOUR_GITHUB_URL">
-      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="YOUR_LINKEDIN_URL">
-      <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="YOUR_PORTFOLIO_URL">
-      <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="mailto:tahamahmoudii@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
+<p>
+  <a href="https://tahamahmoudi.ir">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-tahamahmoudi.ir-7c3aed?style=for-the-badge" />
+  </a>
+  <a href="mailto:tahamahmoudii@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact-ea4335?style=for-the-badge" />
+  </a>
+</p>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=Frontend+Developer;React+%2B+Next.js+Developer;TypeScript+Enthusiast;Always+Learning%2C+Always+Building"
-    alt="Typing animation"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&lines=توسعه‌دهنده+فرانت‌اند;علاقه‌مند+به+React+و+Next.js;در+مسیر+تسلط+بیشتر+بر+TypeScript;همیشه+در+حال+یادگیری+و+ساختن" />
+
 </div>
 
-👨‍💻 About Me
-I'm Mohammad Taha Mahmoudi, a Frontend Developer passionate about turning ideas into clean, interactive and user-friendly web experiences.
-My main focus is the modern JavaScript ecosystem, especially React, Next.js and TypeScript. I enjoy building responsive interfaces, working with APIs and state management, improving performance, and continuously learning better ways to write scalable frontend code.
-🚀 My philosophy: Build → Learn → Refactor → Improve → Repeat.
+🧑‍💻 درباره من
+من محمد طاها محمودی هستم؛ یک توسعه‌دهنده فرانت‌اند که به طراحی و پیاده‌سازی وب‌سایت‌ها و اپلیکیشن‌های مدرن علاقه‌مندم.
+تمرکز اصلی من روی اکوسیستم مدرن JavaScript و به‌خصوص React، Next.js و TypeScript است. از ساخت رابط‌های کاربری Responsive، کار با API، مدیریت State، انیمیشن‌های تعاملی و تبدیل ایده و طراحی به یک محصول واقعی لذت می‌برم.
+در کنار Frontend، در حال توسعه مهارت‌هایم در Node.js، Express.js و MongoDB هستم تا دید کامل‌تری نسبت به فرآیند توسعه یک محصول Full-Stack داشته باشم.
+🚀 نگرش من: یاد بگیر → بساز → تجربه کن → Refactor کن → بهتر شو
 
-🎯 What I care about
-- 🧩 Clean and maintainable code
-- 📱 Responsive UI and great user experience
-- ⚡ Performance and modern web standards
-- 🔄 Reusable components and scalable architecture
-- 🧠 Continuous learning
-- 🛠️ Turning designs and ideas into real products
-🧰 Tech Stack
-Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,jquery&perline=9" alt="Frontend technologies">
+🛠️ مهارت‌ها و تکنولوژی‌ها
+🎨 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,jquery&perline=9" />
 </p>
 
-State Management & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=redux&perline=1" alt="Redux">
+🔄 State Management & Data
+<p align="center">
+
+Redux Redux Toolkit React Query SWR
 </p>
 
-Redux • Redux Toolkit • React Query • SWR
-Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Backend technologies">
+⚙️ Backend & Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
 </p>
 
-Tooling & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,webpack,babel,jest&perline=5" alt="Development tools">
+🎬 UI & Animation
+<p align="center">
+
+Material UI shadcn/ui GSAP PWA
 </p>
 
-UI / Animation
-MUI • shadcn/ui • GSAP • PWA
-📊 My Skill Map
-Technology	Level
-HTML & CSS	██████████
-JavaScript / ES6 / OOP / Async	██████████
-Bootstrap 5	██████████
-Tailwind CSS	██████████
-Next.js	████████░░
-Git & GitHub	████████░░
-TypeScript	███████░░░
-Redux / React Query / SWR	███████░░░
-React.js	██████░░░░
-Node.js / Express.js	███████░░░
-MongoDB	███████░░░
-MUI / shadcn/ui	███████░░░
-GSAP	███████░░░
-jQuery	███████░░░
-Jest	██████░░░░
-Webpack / Babel	██████░░░░
-PWA	██████░░░░
+🔧 Tools & Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,webpack,babel,jest&perline=5" />
+</p>
+
+📊 نقشه مهارت‌های من
+درصدها برداشت تقریبی از سطح‌هایی هستند که در رزومه فعلی من نمایش داده شده‌اند و به معنی مدرک یا ارزیابی استاندارد نیستند.
+
+تکنولوژی	سطح
+HTML & CSS	🟧🟧🟧🟧🟧
+JavaScript / ES6 / OOP / Async	🟧🟧🟧🟧🟧
+Tailwind CSS	🟧🟧🟧🟧🟧
+Bootstrap 5	🟧🟧🟧🟧🟧
+Next.js	🟧🟧🟧🟧⬜
+Git & GitHub	🟧🟧🟧🟧⬜
+TypeScript	🟧🟧🟧⬜⬜
+Redux / React Query / SWR	🟧🟧🟧⬜⬜
+React.js	🟧🟧🟧⬜⬜
+Node.js / Express.js	🟧🟧🟧⬜⬜
+MongoDB	🟧🟧🟧⬜⬜
+MUI / shadcn/ui	🟧🟧🟧⬜⬜
+GSAP	🟧🟧🟧⬜⬜
+jQuery	🟧🟧🟧⬜⬜
+Jest	🟧🟧⬜⬜⬜
+Webpack / Babel	🟧🟧⬜⬜⬜
+PWA	🟧🟧⬜⬜⬜
 
 
-Note: These levels are a visual representation of the skill ratings shown in my current résumé, not standardized certifications.
-
-🏗️ What I Build
+🚀 چیزهایی که دوست دارم بسازم
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-⚛️ Modern Frontends
-Responsive applications with:
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Component-based architecture
+⚛️ رابط‌های کاربری مدرن
+ساخت رابط‌های کاربری:
+- Responsive
+- Component-Based
+- قابل توسعه
+- کاربرپسند
 </td>
-<td width="50%">
 
-🔌 API-driven Apps
-Frontend applications connected to backend services using:
-- REST APIs
+<td width="50%" align="center">
+
+🔌 اپلیکیشن‌های API محور
+کار با:
+- REST API
 - Async JavaScript
 - React Query
 - SWR
-- State management
+- State Management
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-🎨 Interactive UI
-I enjoy creating interfaces with:
-- Smooth animations
+🎨 UI تعاملی
+استفاده از:
+- Animation
 - GSAP
-- Responsive layouts
-- Reusable UI components
-- Modern design systems
+- UI Components
+- Responsive Design
+- Modern UX
 </td>
-<td width="50%">
 
-📈 Continuous Improvement
-I continuously work on:
-- Better architecture
+<td width="50%" align="center">
+
+📈 رشد مداوم
+تمرکز روی:
+- Clean Code
 - Performance
+- Architecture
 - Testing
-- Accessibility
-- Modern frontend patterns
+- Best Practices
 </td>
 </tr>
 </table>
 
-🧪 Currently Learning & Improving
-React / Next.js
-       ↓
-TypeScript
-       ↓
-State Management
-       ↓
-API Integration
-       ↓
-Node.js / Express
-       ↓
-MongoDB
-       ↓
-Better Architecture & Production Practices
-I'm especially interested in going deeper into TypeScript, Next.js, state management, backend integration, testing and production-ready frontend architecture.
+📚 مسیر یادگیری من
+HTML / CSS / JavaScript
+          ↓
+        React
+          ↓
+      Next.js
+          ↓
+     TypeScript
+          ↓
+State Management & APIs
+          ↓
+ Node.js / Express.js
+          ↓
+       MongoDB
+          ↓
+Production & Scalable Architecture
+در حال حاضر بیشترین تمرکز من روی عمیق‌تر کردن دانش React، Next.js، TypeScript، State Management، API Integration، Testing و معماری Frontend است.
+🎓 تحصیلات
+🎓 مقطع کاردانی
+دانشگاه آزاد تهران شرق
+رشته نرم‌افزار کامپیوتر
+💻 مقطع دیپلم
+مدرسه علم و دانش
+رشته برنامه‌نویسی و پایگاه داده
+🌍 زبان
+زبان	سطح
+🇮🇷 فارسی	زبان مادری
+🇬🇧 انگلیسی	متوسط
+
+
+📫 ارتباط با من
+اگر در زمینه Frontend، React، Next.js، طراحی رابط کاربری یا توسعه وب فعالیت می‌کنید، خوشحال می‌شوم با شما در ارتباط باشم.
+<div align="center">
+
+<a href="https://tahamahmoudi.ir">
+<img src="https://img.shields.io/badge/🌐_Portfolio-مشاهده_پورتفولیو-7c3aed?style=for-the-badge" />
+</a>
+
+<a href="mailto:tahamahmoudii@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-tahamahmoudii%40gmail.com-ea4335?style=for-the-badge" />
+</a>
+
+</div>
+
+<div align="center">
+
+💜 ممنون که از پروفایل من دیدن کردی
+بیایید چیزی عالی بسازیم. 🚀
+</div>
+
+</div>
+
+
+
+
+🇬🇧 English Version
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:6d28d9,100:a855f7&height=210&section=header&text=Taha%20Mahmoudi&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=17" width="100%" />
+
+👋 Hi, I'm Taha Mahmoudi
+💻 Frontend Developer
+<p>
+Passionate about building modern, responsive, interactive and user-friendly web experiences.
+</p>
+
+<p>
+  <a href="https://tahamahmoudi.ir">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-tahamahmoudi.ir-7c3aed?style=for-the-badge" />
+  </a>
+  <a href="mailto:tahamahmoudii@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact-ea4335?style=for-the-badge" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Growing+with+TypeScript;Always+Learning+%26+Building" />
+
+</div>
+
+🧑‍💻 About Me
+I'm Mohammad Taha Mahmoudi, a Frontend Developer passionate about building modern websites and web applications.
+My main focus is the modern JavaScript ecosystem, especially React, Next.js and TypeScript. I enjoy creating responsive interfaces, working with APIs, managing application state, building interactive animations, and turning ideas and designs into real products.
+Alongside frontend development, I'm expanding my skills in Node.js, Express.js and MongoDB to gain a broader understanding of Full-Stack development.
+🚀 My mindset: Learn → Build → Experiment → Refactor → Improve
+
+🛠️ Skills & Technologies
+🎨 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,jquery&perline=9" />
+</p>
+
+🔄 State Management & Data
+<p align="center">
+
+Redux Redux Toolkit React Query SWR
+</p>
+
+⚙️ Backend & Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
+</p>
+
+🎬 UI & Animation
+<p align="center">
+
+Material UI shadcn/ui GSAP PWA
+</p>
+
+🔧 Tools & Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,webpack,babel,jest&perline=5" />
+</p>
+
+📊 My Skill Map
+These levels are approximate visual representations of the skill ratings shown in my current résumé and are not standardized certifications.
+
+Technology	Level
+HTML & CSS	🟧🟧🟧🟧🟧
+JavaScript / ES6 / OOP / Async	🟧🟧🟧🟧🟧
+Tailwind CSS	🟧🟧🟧🟧🟧
+Bootstrap 5	🟧🟧🟧🟧🟧
+Next.js	🟧🟧🟧🟧⬜
+Git & GitHub	🟧🟧🟧🟧⬜
+TypeScript	🟧🟧🟧⬜⬜
+Redux / React Query / SWR	🟧🟧🟧⬜⬜
+React.js	🟧🟧🟧⬜⬜
+Node.js / Express.js	🟧🟧🟧⬜⬜
+MongoDB	🟧🟧🟧⬜⬜
+MUI / shadcn/ui	🟧🟧🟧⬜⬜
+GSAP	🟧🟧🟧⬜⬜
+jQuery	🟧🟧🟧⬜⬜
+Jest	🟧🟧⬜⬜⬜
+Webpack / Babel	🟧🟧⬜⬜⬜
+PWA	🟧🟧⬜⬜⬜
+
+
+🚀 What I Like to Build
+<table>
+<tr>
+<td width="50%" align="center">
+
+⚛️ Modern Frontends
+Building interfaces that are:
+- Responsive
+- Component-based
+- Scalable
+- User-friendly
+</td>
+
+<td width="50%" align="center">
+
+🔌 API-driven Applications
+Working with:
+- REST APIs
+- Async JavaScript
+- React Query
+- SWR
+- State Management
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+🎨 Interactive UI
+Working with:
+- Animations
+- GSAP
+- UI Components
+- Responsive Design
+- Modern UX
+</td>
+
+<td width="50%" align="center">
+
+📈 Continuous Growth
+Focused on:
+- Clean Code
+- Performance
+- Architecture
+- Testing
+- Best Practices
+</td>
+</tr>
+</table>
+
+📚 My Learning Path
+HTML / CSS / JavaScript
+          ↓
+        React
+          ↓
+      Next.js
+          ↓
+     TypeScript
+          ↓
+State Management & APIs
+          ↓
+ Node.js / Express.js
+          ↓
+       MongoDB
+          ↓
+Production & Scalable Architecture
+Currently, I'm focusing on improving my knowledge of React, Next.js, TypeScript, State Management, API Integration, Testing and Frontend Architecture.
 🎓 Education
-🎓 Associate Degree — Computer Software
+🎓 Associate Degree
 Islamic Azad University — Tehran East Branch
-💻 Diploma — Programming / Database
-Elm-o-Sanat School
+Computer Software
+💻 Diploma
+Elm-o-Danesh School
+Programming & Database
 🌍 Languages
 Language	Level
 🇮🇷 Persian	Native
@@ -171,55 +347,24 @@ Language	Level
 
 
 📫 Let's Connect
-If you're interested in frontend development, React, Next.js, modern web applications or collaboration, feel free to reach out.
-<p align="center">
-  <a href="mailto:tahamahmoudii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tahamahmoudii%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+If you're interested in Frontend Development, React, Next.js, UI development or web applications, feel free to connect with me.
+<div align="center">
 
-⚡ A Little More About Me
-const taha = {
-  role: "Frontend Developer",
+<a href="https://tahamahmoudi.ir">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-7c3aed?style=for-the-badge" />
+</a>
 
-  focus: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Modern UI",
-    "Responsive Web Development"
-  ],
+<a href="mailto:tahamahmoudii@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-tahamahmoudii%40gmail.com-ea4335?style=for-the-badge" />
+</a>
 
-  tools: [
-    "Tailwind CSS",
-    "MUI",
-    "Redux Toolkit",
-    "React Query",
-    "SWR",
-    "GSAP"
-  ],
+</div>
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "MongoDB"
-  ],
-
-  mindset: "Always learning. Always building."
-};
 <div align="center">
 
 💜 Thanks for visiting my profile!
-<p>
-  <i>Let's build something great together.</i>
-</p>
+Let's build something great together. 🚀
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:0f172a&height=120&section=footer"
-  width="100%"
-  alt="Footer"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:111827&height=120&section=footer" width="100%" />
 
 </div>
