@@ -1,33 +1,225 @@
+<!-- =========================================================
+     TAHA MAHMOUDI — GitHub Profile README
+     ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm Taha Mahmoudi</h1>
-<h3 align="center">Front-End Developer | React • Next.js • TypeScript | Learning Node.js</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahamahmoudi6&label=Profile%20views&color=0e75b6&style=flat" alt="tahamahmoudi6" /> </p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:a855f7&height=220&section=header&text=Taha%20Mahmoudi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18"
+    alt="Taha Mahmoudi"
+    width="100%"
+  />
+  <h1>Hi, I'm Taha 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahamahmoudi6" alt="tahamahmoudi6" /></a> </p>
+  <p>
+    <b>Frontend Developer</b> focused on building modern, responsive and maintainable web applications.
+  </p>
 
-- 🔭 I’m currently working on [Personal site](nextacode.ir)
+  <p>
+    <a href="YOUR_GITHUB_URL">
+      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="YOUR_PORTFOLIO_URL">
+      <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="mailto:tahamahmoudii@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
 
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, NestJS, Docker**
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=Frontend+Developer;React+%2B+Next.js+Developer;TypeScript+Enthusiast;Always+Learning%2C+Always+Building"
+    alt="Typing animation"
+  />
+</div>
 
-- 💬 Ask me about **React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, JavaScript**
+👨‍💻 About Me
+I'm Mohammad Taha Mahmoudi, a Frontend Developer passionate about turning ideas into clean, interactive and user-friendly web experiences.
+My main focus is the modern JavaScript ecosystem, especially React, Next.js and TypeScript. I enjoy building responsive interfaces, working with APIs and state management, improving performance, and continuously learning better ways to write scalable frontend code.
+🚀 My philosophy: Build → Learn → Refactor → Improve → Repeat.
 
-- 📫 How to reach me **tahamahmoudiii6@gmail.com**
-
-- ⚡ Fun fact **I love building modern web applications and continuously learning new technologies.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/taha-mahmoudi-778937427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taha-mahmoudi-778937427" height="30" width="40" /></a>
-<a href="https://instagram.com/tahamahmoudiii6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahamahmoudiii6" height="30" width="40" /></a>
+🎯 What I care about
+- 🧩 Clean and maintainable code
+- 📱 Responsive UI and great user experience
+- ⚡ Performance and modern web standards
+- 🔄 Reusable components and scalable architecture
+- 🧠 Continuous learning
+- 🛠️ Turning designs and ideas into real products
+🧰 Tech Stack
+Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,jquery&perline=9" alt="Frontend technologies">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+State Management & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=redux&perline=1" alt="Redux">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahamahmoudi6&show_icons=true&locale=en&layout=compact" alt="tahamahmoudi6" /></p>
+Redux • Redux Toolkit • React Query • SWR
+Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Backend technologies">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahamahmoudi6&show_icons=true&locale=en" alt="tahamahmoudi6" /></p>
+Tooling & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,webpack,babel,jest&perline=5" alt="Development tools">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahamahmoudi6&" alt="tahamahmoudi6" /></p>
+UI / Animation
+MUI • shadcn/ui • GSAP • PWA
+📊 My Skill Map
+Technology	Level
+HTML & CSS	██████████
+JavaScript / ES6 / OOP / Async	██████████
+Bootstrap 5	██████████
+Tailwind CSS	██████████
+Next.js	████████░░
+Git & GitHub	████████░░
+TypeScript	███████░░░
+Redux / React Query / SWR	███████░░░
+React.js	██████░░░░
+Node.js / Express.js	███████░░░
+MongoDB	███████░░░
+MUI / shadcn/ui	███████░░░
+GSAP	███████░░░
+jQuery	███████░░░
+Jest	██████░░░░
+Webpack / Babel	██████░░░░
+PWA	██████░░░░
 
+
+Note: These levels are a visual representation of the skill ratings shown in my current résumé, not standardized certifications.
+
+🏗️ What I Build
+<table>
+<tr>
+<td width="50%">
+
+⚛️ Modern Frontends
+Responsive applications with:
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Component-based architecture
+</td>
+<td width="50%">
+
+🔌 API-driven Apps
+Frontend applications connected to backend services using:
+- REST APIs
+- Async JavaScript
+- React Query
+- SWR
+- State management
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+🎨 Interactive UI
+I enjoy creating interfaces with:
+- Smooth animations
+- GSAP
+- Responsive layouts
+- Reusable UI components
+- Modern design systems
+</td>
+<td width="50%">
+
+📈 Continuous Improvement
+I continuously work on:
+- Better architecture
+- Performance
+- Testing
+- Accessibility
+- Modern frontend patterns
+</td>
+</tr>
+</table>
+
+🧪 Currently Learning & Improving
+React / Next.js
+       ↓
+TypeScript
+       ↓
+State Management
+       ↓
+API Integration
+       ↓
+Node.js / Express
+       ↓
+MongoDB
+       ↓
+Better Architecture & Production Practices
+I'm especially interested in going deeper into TypeScript, Next.js, state management, backend integration, testing and production-ready frontend architecture.
+🎓 Education
+🎓 Associate Degree — Computer Software
+Islamic Azad University — Tehran East Branch
+💻 Diploma — Programming / Database
+Elm-o-Sanat School
+🌍 Languages
+Language	Level
+🇮🇷 Persian	Native
+🇬🇧 English	Intermediate
+
+
+📫 Let's Connect
+If you're interested in frontend development, React, Next.js, modern web applications or collaboration, feel free to reach out.
+<p align="center">
+  <a href="mailto:tahamahmoudii@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tahamahmoudii%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+⚡ A Little More About Me
+const taha = {
+  role: "Frontend Developer",
+
+  focus: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Modern UI",
+    "Responsive Web Development"
+  ],
+
+  tools: [
+    "Tailwind CSS",
+    "MUI",
+    "Redux Toolkit",
+    "React Query",
+    "SWR",
+    "GSAP"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
+
+  mindset: "Always learning. Always building."
+};
+<div align="center">
+
+💜 Thanks for visiting my profile!
+<p>
+  <i>Let's build something great together.</i>
+</p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:0f172a&height=120&section=footer"
+  width="100%"
+  alt="Footer"
+
+</div>
